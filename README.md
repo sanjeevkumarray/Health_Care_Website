@@ -34,7 +34,9 @@ App walkthrough ✨
 Onboarding👋
 
 When a user visits the app for the first time, initial information and instructions are displayed to the user to make them familiar with the app. This app doesn’t require a login or signup.
-![image](https://user-images.githubusercontent.com/53333326/182214802-a1faf7a7-5c42-45f7-8933-e27c92df8757.png)
+
+![image](https://user-images.githubusercontent.com/53333326/182217073-32cf5d93-84aa-4927-8311-969c54b18a44.png)
+
 
 
 Posture detection initial setup🧍‍♂️
